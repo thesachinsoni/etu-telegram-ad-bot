@@ -15,9 +15,9 @@ from telegram.ext import CommandHandler
 
 # Config
 _super_admin = [377355186, 539410589]
-_interval = 5 
+_interval = 60 
 _token = '549671536:AAFT7P_ywV06OASR5WQZMe7siZUbTUmaG9M'
-_ad_text = "I started advertising!! ETU is the Best!"
+_ad_text = "Join and get free 8888 ETU tokens worth $88\nClick https://etu.link/i/?r=00sb\n\nDon't miss it!!"
 
 # Common data stuct
 # 任务队列
